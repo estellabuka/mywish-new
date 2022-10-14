@@ -1,0 +1,14 @@
+body {
+	color: #999;
+	font-size: 18px;
+	width: 800px;
+}
+.title {
+  color: #c00;
+}
+.description {
+  color: #ccc;
+}
+.link {
+  color: blue;
+}
